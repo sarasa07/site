@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url(') top right no-repeat,
-        url(') bottom left no-repeat;
+    background: url('https://static.vecteezy.com/system/resources/thumbnails/027/127/525/small_2x/bts-logo-bts-icon-transparent-free-png.png') top right no-repeat,
+        url('https://static.vecteezy.com/system/resources/thumbnails/027/127/525/small_2x/bts-logo-bts-icon-transparent-free-png.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('https://static.vecteezy.com/system/resources/thumbnails/027/127/525/small_2x/bts-logo-bts-icon-transparent-free-png.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
